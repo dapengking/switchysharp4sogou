@@ -1,0 +1,11 @@
+ <?xml version="1.0" encoding="utf-8"?> 
+ <extension> 
+	 <id>com.dashen.switchysharp4sogou</id> 
+	 <name>switchysharp4sogou</name> 
+	 <show_icon>true</show_icon> 
+	 <description>switchysharp for sogou , based on chrome switchsharp</description>
+	 <popup page="popup.html" width="100" height="100"/> 
+	 <version>0.1</version>
+	 <request_api_version>1</request_api_version>
+	 <author>dapengking</author>
+ </extension>
